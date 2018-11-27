@@ -4,6 +4,10 @@
     "description": "Mana language support",
     "version": "0.0.0",
     "publisher": "MichaelKerekes",
+    "repository": {
+        "type" : "git",
+        "url" : "https://github.com/michaelkerekes/manavsce.git"
+      },
     "engines": {
         "vscode": "^1.29.0"
     },
